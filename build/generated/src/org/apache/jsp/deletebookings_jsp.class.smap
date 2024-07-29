@@ -1,0 +1,15 @@
+SMAP
+deletebookings_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletebookings.jsp
+deletebookings.jsp
++ 1 adminmenu.jsp
+adminmenu.jsp
+*L
+1,4:50
+1#1,24:54
+4#0,63:78
+66,6:141
+*E
